@@ -37,7 +37,7 @@ El precio total de implementación de la estrategia es S/ 10 000 y el costo de p
 ![P3](https://github.com/user-attachments/assets/2635e781-1469-4ea3-99a4-88d62498e518)
 
 ### PREGUNTA 4
-![P4](https://github.com/user-attachments/assets/5a55ecca-fc1a-4cd9-abb7-04be14d5b64d)
+![O4](https://github.com/user-attachments/assets/e9122009-ffcd-4e26-96eb-218ab5560028)
 
 ### PREGUNTA 5
 ![P5](https://github.com/user-attachments/assets/47ac4de9-d544-4d52-b5cd-25608b9593be)
